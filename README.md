@@ -5,4 +5,5 @@
 - 🔭 I’m currently working on NLP problems applied on chatbot technologies :smiley:. 
 - 💬 Ask me about : Machine learning, Deep learning, Computer vision, Reinforcement learning, Natural language processing, Computer science in general ( & consciousness, philosophy...). 
 - 📫 How to reach me: pierre.snell@botpress.com
+- :fox_face: I also have a [GitLab](https://gitlab.com/ierezell) 
 - ⚡ Fun fact: I'm a french guy living in Quebec
