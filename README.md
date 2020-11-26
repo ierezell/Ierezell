@@ -4,6 +4,6 @@
 - :brain: I have a french M.Sc from [ENSEA](https://www.ensea.fr/fr) and one from Quebec at [Laval University](https://www.ulaval.ca/)
 - 🔭 I’m currently working on NLP problems applied on chatbot technologies :smiley:. 
 - 💬 Ask me about : Machine learning, Deep learning, Computer vision, Reinforcement learning, Natural language processing, Computer science in general ( & consciousness, philosophy...). 
-- 📫 How to reach me: pierre.snell@botpress.com
+- 📫 How to reach me: ierezell@gmail.com
 - :fox_face: I also have a [GitLab](https://gitlab.com/ierezell) 
 - ⚡ Fun fact: I'm a french guy living in Quebec
