@@ -20,7 +20,7 @@
 
 </div>
 
-## I'm currently working at Botpress, as a deep/machine learning research researcher.
+## I'm currently working at Botpress, as a deep/machine learning researcher.
 - :brain: I have two M.Sc in computer science / Electronics / AI : one from [ENSEA](https://www.ensea.fr/fr) (France) and one from [Laval University](https://www.ulaval.ca/) (Quebec)
 - 🔭 I’m currently working on NLP problems applied on chatbot technologies at [Botpress](https://github.com/botpress/botpress) :smiley:. 
 - 💬 Ask me about : Machine learning, Deep learning, Computer vision, Reinforcement learning, Natural language processing, Computer science in general ( & consciousness, philosophy...). 
