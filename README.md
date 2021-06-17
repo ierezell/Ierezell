@@ -1,9 +1,24 @@
-### Hi there, I'm Pierre Snell - Ierezell 👋
+<h1 align="center">Hi there, I'm Pierre Snell - Ierezell 👋</h1>
 
-## I'm currently working at Botpress, as a deep/machine learning research engineer.
+## I'm currently working at Botpress, as a deep/machine learning research researcher.
 - :brain: I have two M.Sc in computer science / Electronics / AI : one from [ENSEA](https://www.ensea.fr/fr) (France) and one from [Laval University](https://www.ulaval.ca/) (Quebec)
 - 🔭 I’m currently working on NLP problems applied on chatbot technologies at [Botpress](https://github.com/botpress/botpress) :smiley:. 
 - 💬 Ask me about : Machine learning, Deep learning, Computer vision, Reinforcement learning, Natural language processing, Computer science in general ( & consciousness, philosophy...). 
 - 📫 How to reach me: ierezell@gmail.com
 - :fox_face: I also have a [GitLab](https://gitlab.com/ierezell) 
 - ⚡ Fun fact: I'm a french guy living in Quebec
+
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ierezell&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierezell&theme=dracula&show_icons=true" />
+</p>
+
+<div align="center">  
+![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-%23eeeeee?logo=flask&style=for-the-badge&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-%23092E20?logo=django&style=for-the-badge&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Archlinux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![React](https://img.shields.io/badge/-React-%2357d8fb?logo=react&style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
