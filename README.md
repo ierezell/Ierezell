@@ -20,10 +20,10 @@
 
 </div>
 
-## I'm currently working at Botpress, as a deep/machine learning researcher.
+## I'm currently working at BioTwin, as a deep/machine learning researcher / Data Scientist/Engineer.
 - :brain: I have two M.Sc in computer science / Electronics / AI : one from [ENSEA](https://www.ensea.fr/fr) (France) and one from [Laval University](https://www.ulaval.ca/) (Quebec)
-- 🔭 I’m currently working on NLP problems applied on chatbot technologies at [Botpress](https://github.com/botpress/botpress) :smiley:. 
-- 💬 Ask me about : Machine learning, Deep learning, Computer vision, Reinforcement learning, Natural language processing, Computer science in general ( & consciousness, philosophy...). 
+- 🔭 I worked on NLP problems for applied on chatbot technologies at [Botpress](https://github.com/botpress/botpress) :smiley: but now I'm improving personalized health care via digital twins at [BioTwin](https://biotwin.ai/). 
+- 💬 Ask me about : Machine learning, Personalized HealthCare Deep learning, Computer vision, Reinforcement learning, Natural language processing, Computer science in general ( & consciousness, philosophy...). 
 - 📫 How to reach me: ierezell@gmail.com
 - :fox_face: I also have a [GitLab](https://gitlab.com/ierezell) 
 - ⚡ Fun fact: I'm a french guy living in Quebec
